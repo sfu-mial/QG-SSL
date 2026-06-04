@@ -1,3 +1,15 @@
+# VS Code
+.vscode/
+
+# Paper PDF
+QG-SSL.pdf
+
+# LaTeX source code
+LatexSource-4232/
+
+# Old README
+README-old.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
