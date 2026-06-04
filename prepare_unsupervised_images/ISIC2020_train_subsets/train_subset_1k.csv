@@ -1,0 +1,1001 @@
+image_name,patient_id,sex,age_approx,anatom_site_general_challenge,diagnosis,benign_malignant,target,img_path
+ISIC_0319491,IP_9245079,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0319491.jpg
+ISIC_2660216,IP_1602525,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2660216.jpg
+ISIC_6448063,IP_6001986,male,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6448063.jpg
+ISIC_5552385,IP_2666042,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5552385.jpg
+ISIC_6555618,IP_6538458,female,50.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6555618.jpg
+ISIC_3744835,IP_6061014,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3744835.jpg
+ISIC_7947699,IP_2107539,male,55.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7947699.jpg
+ISIC_6683756,IP_6078411,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6683756.jpg
+ISIC_0664452,IP_6901441,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0664452.jpg
+ISIC_8879472,IP_2618037,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8879472.jpg
+ISIC_6953126,IP_9037179,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6953126.jpg
+ISIC_0486498,IP_4522475,male,25.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0486498.jpg
+ISIC_9643672,IP_8976307,male,65.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9643672.jpg
+ISIC_2217230,IP_5906250,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2217230.jpg
+ISIC_4404036,IP_8220633,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4404036.jpg
+ISIC_0247964,IP_6526534,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0247964.jpg
+ISIC_4237327,IP_0078763,female,30.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4237327.jpg
+ISIC_1159891,IP_8702124,female,50.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1159891.jpg
+ISIC_3561821,IP_3735763,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3561821.jpg
+ISIC_6632614,IP_1233669,female,55.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6632614.jpg
+ISIC_7701105,IP_4419570,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7701105.jpg
+ISIC_1934097,IP_3240837,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1934097.jpg
+ISIC_9725342,IP_9346829,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9725342.jpg
+ISIC_3234017,IP_2085351,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3234017.jpg
+ISIC_5891866,IP_8547782,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5891866.jpg
+ISIC_0634521,IP_7772951,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0634521.jpg
+ISIC_0727322,IP_7087967,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0727322.jpg
+ISIC_2138559,IP_9346829,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2138559.jpg
+ISIC_9279110,IP_0408346,male,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9279110.jpg
+ISIC_7117369,IP_3281766,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7117369.jpg
+ISIC_6577767,IP_4382720,female,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6577767.jpg
+ISIC_7483981,IP_8791409,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7483981.jpg
+ISIC_2301029,IP_1525623,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2301029.jpg
+ISIC_1519429,IP_8534235,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1519429.jpg
+ISIC_2323082,IP_9756394,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2323082.jpg
+ISIC_2583900,IP_5221820,female,50.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2583900.jpg
+ISIC_5615347,IP_7313005,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5615347.jpg
+ISIC_5216675,IP_2055758,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5216675.jpg
+ISIC_6858892,IP_3240837,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6858892.jpg
+ISIC_4906026,IP_6245507,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4906026.jpg
+ISIC_5580631,IP_1244021,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5580631.jpg
+ISIC_9445053,IP_3116217,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9445053.jpg
+ISIC_0860318,IP_6294394,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0860318.jpg
+ISIC_9035415,IP_0857646,male,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9035415.jpg
+ISIC_2755667,IP_6397153,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2755667.jpg
+ISIC_8126172,IP_1800426,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8126172.jpg
+ISIC_5342664,IP_8437394,female,35.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5342664.jpg
+ISIC_7894682,IP_1242186,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7894682.jpg
+ISIC_3163773,IP_1920963,female,65.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3163773.jpg
+ISIC_7302456,IP_6078411,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7302456.jpg
+ISIC_5667707,IP_1152723,male,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5667707.jpg
+ISIC_1857587,IP_8673016,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1857587.jpg
+ISIC_3470824,IP_6331820,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3470824.jpg
+ISIC_2470998,IP_5550558,male,50.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2470998.jpg
+ISIC_2141054,IP_9067064,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2141054.jpg
+ISIC_2042953,IP_3397861,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2042953.jpg
+ISIC_8211756,IP_9879000,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8211756.jpg
+ISIC_5562603,IP_0961415,male,45.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5562603.jpg
+ISIC_2593795,IP_4682288,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2593795.jpg
+ISIC_6477810,IP_4938349,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6477810.jpg
+ISIC_5891384,IP_8326844,female,55.0,upper extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5891384.jpg
+ISIC_3436311,IP_8349964,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3436311.jpg
+ISIC_7332135,IP_4681183,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7332135.jpg
+ISIC_8428761,IP_5517026,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8428761.jpg
+ISIC_7990781,IP_0630349,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7990781.jpg
+ISIC_7043828,IP_0776416,female,30.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7043828.jpg
+ISIC_9386541,IP_4419570,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9386541.jpg
+ISIC_3384989,IP_1800426,female,40.0,head/neck,seborrheic keratosis,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3384989.jpg
+ISIC_4122234,IP_2251646,male,15.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4122234.jpg
+ISIC_9058340,IP_8247808,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9058340.jpg
+ISIC_1878422,IP_9460738,male,35.0,palms/soles,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1878422.jpg
+ISIC_9576957,IP_3203470,female,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9576957.jpg
+ISIC_0311369,IP_3075186,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0311369.jpg
+ISIC_5199342,IP_6614604,male,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5199342.jpg
+ISIC_8130862,IP_8447624,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8130862.jpg
+ISIC_9800565,IP_7690396,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9800565.jpg
+ISIC_9159739,IP_7403252,male,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9159739.jpg
+ISIC_5349762,IP_0516326,male,35.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5349762.jpg
+ISIC_5881871,IP_1512731,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5881871.jpg
+ISIC_5238111,IP_0931383,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5238111.jpg
+ISIC_5921777,IP_2166250,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5921777.jpg
+ISIC_1565767,IP_5872065,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1565767.jpg
+ISIC_9156264,IP_2501903,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9156264.jpg
+ISIC_0987749,IP_2213065,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0987749.jpg
+ISIC_9944671,IP_6692103,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9944671.jpg
+ISIC_5897296,IP_2235340,female,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5897296.jpg
+ISIC_2343061,IP_9218934,male,70.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2343061.jpg
+ISIC_2717649,IP_6342052,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2717649.jpg
+ISIC_8487328,IP_8277853,female,55.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8487328.jpg
+ISIC_0842848,IP_6029629,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0842848.jpg
+ISIC_6450285,IP_7121757,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6450285.jpg
+ISIC_3030351,IP_6332843,male,30.0,oral/genital,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3030351.jpg
+ISIC_4223155,IP_4938382,female,25.0,lower extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4223155.jpg
+ISIC_5747367,IP_4698288,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5747367.jpg
+ISIC_0148643,IP_5776149,female,70.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0148643.jpg
+ISIC_3455311,IP_5328472,male,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3455311.jpg
+ISIC_1164612,IP_7817798,female,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1164612.jpg
+ISIC_3585381,IP_0989858,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3585381.jpg
+ISIC_5176105,IP_5889408,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5176105.jpg
+ISIC_9928421,IP_0961415,male,45.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9928421.jpg
+ISIC_9644360,IP_9901629,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9644360.jpg
+ISIC_2176370,IP_9644384,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2176370.jpg
+ISIC_0325416,IP_0787478,male,75.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0325416.jpg
+ISIC_7187459,IP_2214113,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7187459.jpg
+ISIC_7797278,IP_5085022,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7797278.jpg
+ISIC_7514830,IP_6151980,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7514830.jpg
+ISIC_7953081,IP_0621614,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7953081.jpg
+ISIC_4064779,IP_9424914,male,40.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4064779.jpg
+ISIC_0970069,IP_5311557,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0970069.jpg
+ISIC_8597073,IP_4762742,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8597073.jpg
+ISIC_9683184,IP_7250026,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9683184.jpg
+ISIC_9071758,IP_3222187,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9071758.jpg
+ISIC_3633707,IP_2160700,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3633707.jpg
+ISIC_1241918,IP_5085022,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1241918.jpg
+ISIC_2683271,IP_9164625,female,50.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2683271.jpg
+ISIC_3592293,IP_9232483,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3592293.jpg
+ISIC_4856299,IP_4711011,male,15.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4856299.jpg
+ISIC_7231369,IP_6538458,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7231369.jpg
+ISIC_8657079,IP_0968880,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8657079.jpg
+ISIC_3629278,IP_5076578,male,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3629278.jpg
+ISIC_3939790,IP_4479736,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3939790.jpg
+ISIC_1064919,IP_8330575,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1064919.jpg
+ISIC_2251844,IP_0414408,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2251844.jpg
+ISIC_5576986,IP_8206875,male,70.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5576986.jpg
+ISIC_5055930,IP_5439716,male,70.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5055930.jpg
+ISIC_8651053,IP_8794667,male,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8651053.jpg
+ISIC_7600581,IP_3281766,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7600581.jpg
+ISIC_5429665,IP_3422736,female,40.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5429665.jpg
+ISIC_8515674,IP_8051701,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8515674.jpg
+ISIC_7106587,IP_8590096,male,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7106587.jpg
+ISIC_7171090,IP_2426108,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7171090.jpg
+ISIC_0499971,IP_7180935,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0499971.jpg
+ISIC_6335980,IP_0896904,female,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6335980.jpg
+ISIC_1269048,IP_4762742,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1269048.jpg
+ISIC_5705734,IP_7466144,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5705734.jpg
+ISIC_8454214,IP_2842074,female,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8454214.jpg
+ISIC_5101322,IP_7079700,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5101322.jpg
+ISIC_4149144,IP_2166250,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4149144.jpg
+ISIC_6392658,IP_7100012,female,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6392658.jpg
+ISIC_5348582,IP_0394288,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5348582.jpg
+ISIC_9270418,IP_3689742,male,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9270418.jpg
+ISIC_6190245,IP_0078294,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6190245.jpg
+ISIC_2976115,IP_9315856,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2976115.jpg
+ISIC_9985224,IP_7765741,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9985224.jpg
+ISIC_1797104,IP_7105810,female,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1797104.jpg
+ISIC_3780571,IP_8446078,male,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3780571.jpg
+ISIC_4516137,IP_8136122,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4516137.jpg
+ISIC_7402256,IP_5867829,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7402256.jpg
+ISIC_9419454,IP_5440659,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9419454.jpg
+ISIC_7929735,IP_8226501,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7929735.jpg
+ISIC_4266455,IP_2724119,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4266455.jpg
+ISIC_7233665,IP_9965542,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7233665.jpg
+ISIC_2287151,IP_7279968,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2287151.jpg
+ISIC_8029120,IP_4021847,male,40.0,palms/soles,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8029120.jpg
+ISIC_6147542,IP_2467770,male,20.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6147542.jpg
+ISIC_3990546,IP_5972253,male,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3990546.jpg
+ISIC_2060078,IP_2316840,male,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2060078.jpg
+ISIC_8300343,IP_0878241,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8300343.jpg
+ISIC_0940385,IP_9661974,male,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0940385.jpg
+ISIC_6789494,IP_3927686,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6789494.jpg
+ISIC_9909314,IP_4342801,male,65.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9909314.jpg
+ISIC_7180418,IP_1517386,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7180418.jpg
+ISIC_7882247,IP_2049351,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7882247.jpg
+ISIC_2072219,IP_1039996,male,30.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2072219.jpg
+ISIC_9426618,IP_9045497,male,70.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9426618.jpg
+ISIC_1950002,IP_8236536,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1950002.jpg
+ISIC_8247202,IP_8247808,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8247202.jpg
+ISIC_4702027,IP_4204657,female,60.0,palms/soles,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4702027.jpg
+ISIC_5204992,IP_7109467,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5204992.jpg
+ISIC_4698457,IP_2938573,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4698457.jpg
+ISIC_8331313,IP_8974438,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8331313.jpg
+ISIC_6835115,IP_2041319,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6835115.jpg
+ISIC_3402347,IP_2422802,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3402347.jpg
+ISIC_2724529,IP_5234470,male,45.0,upper extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2724529.jpg
+ISIC_9856271,IP_6332843,male,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9856271.jpg
+ISIC_6101007,IP_9906695,female,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6101007.jpg
+ISIC_1189461,IP_2290360,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1189461.jpg
+ISIC_6873847,IP_8326844,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6873847.jpg
+ISIC_9337570,IP_4879325,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9337570.jpg
+ISIC_2811896,IP_6977878,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2811896.jpg
+ISIC_6973425,IP_6121241,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6973425.jpg
+ISIC_8692006,IP_6538458,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8692006.jpg
+ISIC_2958266,IP_4865295,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2958266.jpg
+ISIC_2976789,IP_7817315,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2976789.jpg
+ISIC_7424256,IP_9835712,,,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7424256.jpg
+ISIC_9015818,IP_8012985,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9015818.jpg
+ISIC_2706427,IP_7111848,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2706427.jpg
+ISIC_6667142,IP_7330399,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6667142.jpg
+ISIC_5631347,IP_0699776,male,80.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5631347.jpg
+ISIC_4335080,IP_7702038,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4335080.jpg
+ISIC_4453506,IP_0492456,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4453506.jpg
+ISIC_6480784,IP_5178963,female,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6480784.jpg
+ISIC_7959386,IP_7842255,female,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7959386.jpg
+ISIC_1393085,IP_7198796,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1393085.jpg
+ISIC_6804665,IP_9115451,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6804665.jpg
+ISIC_5823076,IP_4698288,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5823076.jpg
+ISIC_0345845,IP_8326844,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0345845.jpg
+ISIC_6250844,IP_7211398,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6250844.jpg
+ISIC_8008177,IP_8848835,female,55.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8008177.jpg
+ISIC_3767325,IP_1244021,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3767325.jpg
+ISIC_6302981,IP_2177417,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6302981.jpg
+ISIC_8304618,IP_7005083,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8304618.jpg
+ISIC_7051167,IP_9896679,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7051167.jpg
+ISIC_6340792,IP_6353955,male,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6340792.jpg
+ISIC_9812330,IP_0900824,male,65.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9812330.jpg
+ISIC_5423398,IP_9111321,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5423398.jpg
+ISIC_9576385,IP_3658607,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9576385.jpg
+ISIC_1365061,IP_4898383,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1365061.jpg
+ISIC_7156843,IP_1969685,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7156843.jpg
+ISIC_0933821,IP_0001230,female,50.0,lower extremity,lentigo NOS,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0933821.jpg
+ISIC_8519931,IP_4419570,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8519931.jpg
+ISIC_3982913,IP_2962626,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3982913.jpg
+ISIC_2011145,IP_8524154,male,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2011145.jpg
+ISIC_9435927,IP_7040211,male,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9435927.jpg
+ISIC_5389652,IP_8039381,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5389652.jpg
+ISIC_4784925,IP_0418246,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4784925.jpg
+ISIC_7358998,IP_9679829,male,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7358998.jpg
+ISIC_7970002,IP_0392287,male,50.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7970002.jpg
+ISIC_4506406,IP_9721483,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4506406.jpg
+ISIC_3106058,IP_9851472,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3106058.jpg
+ISIC_5438125,IP_4842370,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5438125.jpg
+ISIC_2778855,IP_0718832,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2778855.jpg
+ISIC_7773473,IP_0951571,female,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7773473.jpg
+ISIC_2057729,IP_0657134,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2057729.jpg
+ISIC_9964568,IP_3155633,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9964568.jpg
+ISIC_0405146,IP_6332843,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0405146.jpg
+ISIC_7924652,IP_1716665,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7924652.jpg
+ISIC_8239857,IP_9853347,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8239857.jpg
+ISIC_9952575,IP_8011614,female,40.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9952575.jpg
+ISIC_0552296,IP_3523452,female,20.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0552296.jpg
+ISIC_3429552,IP_2213648,male,80.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3429552.jpg
+ISIC_6926865,IP_0776416,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6926865.jpg
+ISIC_7315685,IP_2976930,female,35.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7315685.jpg
+ISIC_4857535,IP_1671181,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4857535.jpg
+ISIC_2083499,IP_3055814,male,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2083499.jpg
+ISIC_7485991,IP_9427625,male,20.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7485991.jpg
+ISIC_2766683,IP_7123023,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2766683.jpg
+ISIC_8108963,IP_3707904,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8108963.jpg
+ISIC_0754049,IP_2950485,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0754049.jpg
+ISIC_9855682,IP_7330399,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9855682.jpg
+ISIC_2449093,IP_7079700,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2449093.jpg
+ISIC_9918598,IP_2584339,male,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9918598.jpg
+ISIC_2526800,IP_7050886,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2526800.jpg
+ISIC_7410794,IP_2412574,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7410794.jpg
+ISIC_6242597,IP_6029068,male,35.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6242597.jpg
+ISIC_0234894,IP_8951606,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0234894.jpg
+ISIC_6468817,IP_6892288,female,55.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6468817.jpg
+ISIC_3008916,IP_7345731,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3008916.jpg
+ISIC_1329932,IP_4938349,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1329932.jpg
+ISIC_7066874,IP_6885799,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7066874.jpg
+ISIC_4475489,IP_2626937,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4475489.jpg
+ISIC_1821821,IP_5370714,female,75.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1821821.jpg
+ISIC_8600358,IP_0825081,male,80.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8600358.jpg
+ISIC_0694033,IP_1991877,male,65.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0694033.jpg
+ISIC_0223857,IP_2675593,female,60.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0223857.jpg
+ISIC_7391160,IP_7466144,female,35.0,palms/soles,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7391160.jpg
+ISIC_4573624,IP_8793264,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4573624.jpg
+ISIC_2837364,IP_7207550,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2837364.jpg
+ISIC_7641231,IP_6538458,female,50.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7641231.jpg
+ISIC_0725958,IP_7688774,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0725958.jpg
+ISIC_4703171,IP_0784448,female,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4703171.jpg
+ISIC_9546197,IP_3432258,female,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9546197.jpg
+ISIC_8047662,IP_7911457,female,50.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8047662.jpg
+ISIC_5747486,IP_5715797,male,20.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5747486.jpg
+ISIC_0282422,IP_9416054,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0282422.jpg
+ISIC_4556592,IP_5773889,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4556592.jpg
+ISIC_7193173,IP_1769689,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7193173.jpg
+ISIC_4226395,IP_6247245,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4226395.jpg
+ISIC_9412119,IP_6512345,male,65.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9412119.jpg
+ISIC_1900558,IP_9051557,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1900558.jpg
+ISIC_1979109,IP_8575171,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1979109.jpg
+ISIC_1976571,IP_3112726,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1976571.jpg
+ISIC_3427958,IP_9463965,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3427958.jpg
+ISIC_1710970,IP_1615189,male,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1710970.jpg
+ISIC_5442756,IP_9122609,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5442756.jpg
+ISIC_1145963,IP_1481008,male,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1145963.jpg
+ISIC_3760018,IP_6367015,female,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3760018.jpg
+ISIC_4682923,IP_4938438,female,20.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4682923.jpg
+ISIC_1264993,IP_5533537,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1264993.jpg
+ISIC_1070864,IP_9644384,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1070864.jpg
+ISIC_8905642,IP_9175987,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8905642.jpg
+ISIC_2961666,IP_6939959,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2961666.jpg
+ISIC_8636598,IP_3203470,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8636598.jpg
+ISIC_4900923,IP_8136122,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4900923.jpg
+ISIC_5852089,IP_9124285,male,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5852089.jpg
+ISIC_8618266,IP_7021484,male,60.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8618266.jpg
+ISIC_9638395,IP_8806573,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9638395.jpg
+ISIC_0515736,IP_7341133,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0515736.jpg
+ISIC_4739527,IP_8848835,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4739527.jpg
+ISIC_3375921,IP_0444327,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3375921.jpg
+ISIC_0512005,IP_4898383,male,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0512005.jpg
+ISIC_6470589,IP_2725676,female,60.0,upper extremity,lentigo NOS,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6470589.jpg
+ISIC_0533930,IP_9392784,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0533930.jpg
+ISIC_9797914,IP_9327025,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9797914.jpg
+ISIC_9311196,IP_3562983,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9311196.jpg
+ISIC_9788987,IP_8759634,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9788987.jpg
+ISIC_1809444,IP_5076578,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1809444.jpg
+ISIC_8244063,IP_9346829,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8244063.jpg
+ISIC_2679689,IP_0093378,male,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2679689.jpg
+ISIC_6449939,IP_4821632,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6449939.jpg
+ISIC_7058883,IP_3689742,male,60.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7058883.jpg
+ISIC_8624123,IP_3048629,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8624123.jpg
+ISIC_7172893,IP_4137989,female,25.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7172893.jpg
+ISIC_1819358,IP_4314793,female,20.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1819358.jpg
+ISIC_9775399,IP_6610197,male,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9775399.jpg
+ISIC_0662000,IP_2947490,male,40.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0662000.jpg
+ISIC_3731815,IP_7105810,female,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3731815.jpg
+ISIC_7792280,IP_3025705,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7792280.jpg
+ISIC_4419431,IP_8004532,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4419431.jpg
+ISIC_0341262,IP_1583003,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0341262.jpg
+ISIC_5679290,IP_3466191,female,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5679290.jpg
+ISIC_9934037,IP_8330575,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9934037.jpg
+ISIC_5958295,IP_2147407,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5958295.jpg
+ISIC_6588853,IP_6092770,female,65.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6588853.jpg
+ISIC_2274568,IP_4382720,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2274568.jpg
+ISIC_0624498,IP_9997715,female,80.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0624498.jpg
+ISIC_2232442,IP_7868912,male,60.0,lower extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2232442.jpg
+ISIC_7168604,IP_2153088,female,30.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7168604.jpg
+ISIC_7460111,IP_2947236,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7460111.jpg
+ISIC_7846309,IP_8247808,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7846309.jpg
+ISIC_9473134,IP_3240837,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9473134.jpg
+ISIC_4064883,IP_3714517,male,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4064883.jpg
+ISIC_1334110,IP_3370847,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1334110.jpg
+ISIC_4930672,IP_7250026,female,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4930672.jpg
+ISIC_5303069,IP_3248713,female,65.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5303069.jpg
+ISIC_4975949,IP_2160700,male,50.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4975949.jpg
+ISIC_9507926,IP_8474574,female,60.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9507926.jpg
+ISIC_4790284,IP_1307115,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4790284.jpg
+ISIC_4875724,IP_6228063,female,20.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4875724.jpg
+ISIC_8889011,IP_3512888,female,35.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8889011.jpg
+ISIC_5905077,IP_1470733,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5905077.jpg
+ISIC_7951995,IP_3751440,female,50.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7951995.jpg
+ISIC_1065160,IP_0408346,male,65.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1065160.jpg
+ISIC_2034311,IP_9001826,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2034311.jpg
+ISIC_6257422,IP_7412558,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6257422.jpg
+ISIC_7358415,IP_5577320,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7358415.jpg
+ISIC_5362869,IP_7497232,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5362869.jpg
+ISIC_3849316,IP_6331820,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3849316.jpg
+ISIC_4057256,IP_8356528,female,45.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4057256.jpg
+ISIC_4198374,IP_1244021,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4198374.jpg
+ISIC_5646135,IP_3054890,male,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5646135.jpg
+ISIC_2771657,IP_4023055,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2771657.jpg
+ISIC_9241599,IP_5986216,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9241599.jpg
+ISIC_8111203,IP_7250026,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8111203.jpg
+ISIC_1272961,IP_7690396,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1272961.jpg
+ISIC_3222454,IP_4234031,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3222454.jpg
+ISIC_9843005,IP_9853347,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9843005.jpg
+ISIC_4838916,IP_8806573,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4838916.jpg
+ISIC_0220926,IP_8848835,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0220926.jpg
+ISIC_4856527,IP_6152307,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4856527.jpg
+ISIC_3856662,IP_0512752,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3856662.jpg
+ISIC_8884720,IP_2618037,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8884720.jpg
+ISIC_9933790,IP_9853347,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9933790.jpg
+ISIC_5300774,IP_9373614,female,50.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5300774.jpg
+ISIC_9748173,IP_7069391,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9748173.jpg
+ISIC_1827859,IP_7688774,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1827859.jpg
+ISIC_8272013,IP_3054890,male,35.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8272013.jpg
+ISIC_0867357,IP_8678278,male,35.0,oral/genital,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0867357.jpg
+ISIC_0242433,IP_4370559,male,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0242433.jpg
+ISIC_6438174,IP_6614604,male,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6438174.jpg
+ISIC_3018475,IP_2959285,male,75.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3018475.jpg
+ISIC_4063097,IP_5724756,female,50.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4063097.jpg
+ISIC_0753491,IP_3679859,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0753491.jpg
+ISIC_4998816,IP_0507923,female,25.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4998816.jpg
+ISIC_4056158,IP_8723313,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4056158.jpg
+ISIC_7371801,IP_3293726,male,80.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7371801.jpg
+ISIC_6863026,IP_1139701,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6863026.jpg
+ISIC_6970590,IP_6885799,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6970590.jpg
+ISIC_5576501,IP_8237561,female,20.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5576501.jpg
+ISIC_0901012,IP_2375279,male,60.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0901012.jpg
+ISIC_2649275,IP_4032184,male,40.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2649275.jpg
+ISIC_6771724,IP_8446078,male,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6771724.jpg
+ISIC_8418506,IP_9909432,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8418506.jpg
+ISIC_3025758,IP_0776416,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3025758.jpg
+ISIC_2799892,IP_0512752,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2799892.jpg
+ISIC_7510482,IP_1969685,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7510482.jpg
+ISIC_1255440,IP_3679859,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1255440.jpg
+ISIC_6176518,IP_8020102,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6176518.jpg
+ISIC_2228262,IP_7404937,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2228262.jpg
+ISIC_6826081,IP_5805281,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6826081.jpg
+ISIC_1826225,IP_1602525,female,25.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1826225.jpg
+ISIC_2912191,IP_1557123,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2912191.jpg
+ISIC_4366946,IP_7822951,female,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4366946.jpg
+ISIC_6668308,IP_6960402,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6668308.jpg
+ISIC_7296463,IP_8019632,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7296463.jpg
+ISIC_8571262,IP_9935748,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8571262.jpg
+ISIC_2114240,IP_6428232,male,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2114240.jpg
+ISIC_9616071,IP_5972548,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9616071.jpg
+ISIC_3975143,IP_8759634,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3975143.jpg
+ISIC_8344758,IP_3131410,female,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8344758.jpg
+ISIC_6295455,IP_6572129,male,65.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6295455.jpg
+ISIC_7170431,IP_5805281,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7170431.jpg
+ISIC_6665380,IP_4926060,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6665380.jpg
+ISIC_7404470,IP_7373371,female,60.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7404470.jpg
+ISIC_5605916,IP_2436697,female,45.0,torso,seborrheic keratosis,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5605916.jpg
+ISIC_1071355,IP_9329623,male,75.0,upper extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1071355.jpg
+ISIC_1938535,IP_4391034,female,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1938535.jpg
+ISIC_8247761,IP_5830187,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8247761.jpg
+ISIC_3676029,IP_7753447,male,60.0,palms/soles,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3676029.jpg
+ISIC_3220423,IP_9513376,male,35.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3220423.jpg
+ISIC_4535125,IP_3549978,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4535125.jpg
+ISIC_7514390,IP_4382720,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7514390.jpg
+ISIC_8572893,IP_4070933,male,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8572893.jpg
+ISIC_7376321,IP_6889268,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7376321.jpg
+ISIC_6930690,IP_2511209,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6930690.jpg
+ISIC_1429954,IP_8759634,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1429954.jpg
+ISIC_4249893,IP_4292424,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4249893.jpg
+ISIC_9067033,IP_1242490,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9067033.jpg
+ISIC_5960183,IP_9896679,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5960183.jpg
+ISIC_9689618,IP_9124285,male,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9689618.jpg
+ISIC_7980532,IP_1969685,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7980532.jpg
+ISIC_6552922,IP_7836372,male,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6552922.jpg
+ISIC_0644461,IP_2636470,female,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0644461.jpg
+ISIC_2025058,IP_1208141,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2025058.jpg
+ISIC_3400972,IP_0768675,male,35.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3400972.jpg
+ISIC_9753857,IP_2822147,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9753857.jpg
+ISIC_5407436,IP_8369251,male,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5407436.jpg
+ISIC_6700416,IP_3008149,male,65.0,head/neck,seborrheic keratosis,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6700416.jpg
+ISIC_8479844,IP_7404937,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8479844.jpg
+ISIC_4494516,IP_8491618,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4494516.jpg
+ISIC_6115394,IP_3434100,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6115394.jpg
+ISIC_7890383,IP_8412988,female,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7890383.jpg
+ISIC_5660197,IP_7243781,male,75.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5660197.jpg
+ISIC_6298293,IP_0639877,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6298293.jpg
+ISIC_1438584,IP_3994607,male,75.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1438584.jpg
+ISIC_1877216,IP_6247924,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1877216.jpg
+ISIC_6594464,IP_6891522,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6594464.jpg
+ISIC_5621310,IP_5474292,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5621310.jpg
+ISIC_5536616,IP_5874294,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5536616.jpg
+ISIC_2334434,IP_4199752,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2334434.jpg
+ISIC_3734292,IP_4938382,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3734292.jpg
+ISIC_2536936,IP_1153670,male,45.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2536936.jpg
+ISIC_4269911,IP_3490992,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4269911.jpg
+ISIC_3722195,IP_2321962,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3722195.jpg
+ISIC_8527737,IP_4713174,female,90.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8527737.jpg
+ISIC_0814097,IP_9898991,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0814097.jpg
+ISIC_6197608,IP_0663261,female,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6197608.jpg
+ISIC_1361124,IP_3089004,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1361124.jpg
+ISIC_0547893,IP_6894159,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0547893.jpg
+ISIC_3812608,IP_7373371,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3812608.jpg
+ISIC_1126202,IP_0687884,male,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1126202.jpg
+ISIC_8204544,IP_4633933,female,55.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8204544.jpg
+ISIC_7549209,IP_0660290,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7549209.jpg
+ISIC_8392065,IP_9513376,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8392065.jpg
+ISIC_7332868,IP_8385941,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7332868.jpg
+ISIC_2972948,IP_4721772,female,70.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2972948.jpg
+ISIC_4762702,IP_1652699,male,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4762702.jpg
+ISIC_8157303,IP_3232631,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8157303.jpg
+ISIC_9916907,IP_4419570,male,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9916907.jpg
+ISIC_5081382,IP_0718832,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5081382.jpg
+ISIC_2527281,IP_5339938,female,80.0,palms/soles,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2527281.jpg
+ISIC_7595416,IP_2026598,male,20.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7595416.jpg
+ISIC_8343418,IP_8794667,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8343418.jpg
+ISIC_1606970,IP_3365162,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1606970.jpg
+ISIC_0841234,IP_5104615,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0841234.jpg
+ISIC_4920166,IP_5174964,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4920166.jpg
+ISIC_8109217,IP_4103643,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8109217.jpg
+ISIC_6310830,IP_4966841,male,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6310830.jpg
+ISIC_7960920,IP_5202455,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7960920.jpg
+ISIC_8924739,IP_7688774,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8924739.jpg
+ISIC_7860012,IP_8039381,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7860012.jpg
+ISIC_2489471,IP_3833850,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2489471.jpg
+ISIC_6580076,IP_3512888,female,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6580076.jpg
+ISIC_9328589,IP_8673016,female,55.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9328589.jpg
+ISIC_7237010,IP_2978129,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7237010.jpg
+ISIC_2661646,IP_7729044,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2661646.jpg
+ISIC_3611638,IP_7198796,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3611638.jpg
+ISIC_1334006,IP_6297463,male,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1334006.jpg
+ISIC_5268507,IP_4978372,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5268507.jpg
+ISIC_0196502,IP_0347699,male,20.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0196502.jpg
+ISIC_8617145,IP_7684360,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8617145.jpg
+ISIC_9636881,IP_9087899,male,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9636881.jpg
+ISIC_8889856,IP_5389392,male,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8889856.jpg
+ISIC_6285076,IP_1058691,female,45.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6285076.jpg
+ISIC_3246746,IP_4842370,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3246746.jpg
+ISIC_7821457,IP_2147407,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7821457.jpg
+ISIC_4072730,IP_8236536,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4072730.jpg
+ISIC_4171787,IP_7471612,female,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4171787.jpg
+ISIC_8191696,IP_6842734,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8191696.jpg
+ISIC_5557021,IP_8447624,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5557021.jpg
+ISIC_6143791,IP_5064161,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6143791.jpg
+ISIC_8272585,IP_4387709,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8272585.jpg
+ISIC_1437718,IP_8526194,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1437718.jpg
+ISIC_5803529,IP_1681872,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5803529.jpg
+ISIC_1674754,IP_4109313,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1674754.jpg
+ISIC_7062360,IP_3008149,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7062360.jpg
+ISIC_1886756,IP_4419570,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1886756.jpg
+ISIC_2401189,IP_1351218,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2401189.jpg
+ISIC_6253295,IP_2040538,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6253295.jpg
+ISIC_2202665,IP_4576977,male,40.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2202665.jpg
+ISIC_9479804,IP_5097631,female,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9479804.jpg
+ISIC_5357781,IP_1800426,female,35.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5357781.jpg
+ISIC_1120654,IP_4116267,female,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1120654.jpg
+ISIC_7844565,IP_3419066,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7844565.jpg
+ISIC_0217057,IP_8375053,female,35.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0217057.jpg
+ISIC_9733592,IP_6842734,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9733592.jpg
+ISIC_7030488,IP_4681183,male,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7030488.jpg
+ISIC_8158542,IP_0663261,female,70.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8158542.jpg
+ISIC_1048077,IP_5350484,male,30.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1048077.jpg
+ISIC_3922580,IP_2322991,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3922580.jpg
+ISIC_8526982,IP_2068150,male,85.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8526982.jpg
+ISIC_9308624,IP_6960402,female,30.0,head/neck,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9308624.jpg
+ISIC_3852855,IP_9450101,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3852855.jpg
+ISIC_1873035,IP_4186145,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1873035.jpg
+ISIC_6239659,IP_0656529,male,60.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6239659.jpg
+ISIC_7534592,IP_0621614,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7534592.jpg
+ISIC_5254894,IP_1023029,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5254894.jpg
+ISIC_1567290,IP_6297463,male,40.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1567290.jpg
+ISIC_3665147,IP_7252102,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3665147.jpg
+ISIC_2410736,IP_7785592,male,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2410736.jpg
+ISIC_9580344,IP_7824066,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9580344.jpg
+ISIC_7312781,IP_9188370,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7312781.jpg
+ISIC_0305800,IP_6342052,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0305800.jpg
+ISIC_2222264,IP_3986523,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2222264.jpg
+ISIC_1495081,IP_7279968,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1495081.jpg
+ISIC_5059355,IP_4382720,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5059355.jpg
+ISIC_8435736,IP_2442926,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8435736.jpg
+ISIC_3260068,IP_7147862,male,45.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3260068.jpg
+ISIC_8209526,IP_8839187,male,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8209526.jpg
+ISIC_1975941,IP_5229014,male,55.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1975941.jpg
+ISIC_0089569,IP_3933152,female,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0089569.jpg
+ISIC_9588065,IP_5945814,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9588065.jpg
+ISIC_6441128,IP_0883591,female,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6441128.jpg
+ISIC_5615250,IP_4366219,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5615250.jpg
+ISIC_0575350,IP_5064161,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0575350.jpg
+ISIC_9712995,IP_7199022,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9712995.jpg
+ISIC_4233248,IP_0358698,male,50.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4233248.jpg
+ISIC_8556582,IP_7313005,male,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8556582.jpg
+ISIC_4831524,IP_7785592,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4831524.jpg
+ISIC_7488800,IP_6118207,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7488800.jpg
+ISIC_6143929,IP_3219832,female,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6143929.jpg
+ISIC_1639724,IP_3350187,male,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1639724.jpg
+ISIC_9931592,IP_9086201,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9931592.jpg
+ISIC_2987677,IP_6342052,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2987677.jpg
+ISIC_1953352,IP_3755407,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1953352.jpg
+ISIC_5312710,IP_3057277,male,45.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5312710.jpg
+ISIC_0559686,IP_4576977,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0559686.jpg
+ISIC_1784717,IP_8041141,female,20.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1784717.jpg
+ISIC_1425958,IP_0656529,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1425958.jpg
+ISIC_5825647,IP_2455242,female,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5825647.jpg
+ISIC_9342053,IP_7368120,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9342053.jpg
+ISIC_3897881,IP_0621614,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3897881.jpg
+ISIC_0796325,IP_3833850,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0796325.jpg
+ISIC_4793117,IP_4879325,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4793117.jpg
+ISIC_4450909,IP_7066637,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4450909.jpg
+ISIC_1182624,IP_2047697,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1182624.jpg
+ISIC_3296741,IP_5085022,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3296741.jpg
+ISIC_4730074,IP_6151980,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4730074.jpg
+ISIC_1166522,IP_9679829,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1166522.jpg
+ISIC_7188056,IP_2507276,male,70.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7188056.jpg
+ISIC_3176566,IP_2987599,male,55.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3176566.jpg
+ISIC_4554863,IP_2114130,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4554863.jpg
+ISIC_7011835,IP_4938382,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7011835.jpg
+ISIC_8244001,IP_6601306,female,20.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8244001.jpg
+ISIC_8639128,IP_9282375,female,65.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8639128.jpg
+ISIC_7972756,IP_7522397,female,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7972756.jpg
+ISIC_2036426,IP_9997715,female,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2036426.jpg
+ISIC_8846654,IP_7382179,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8846654.jpg
+ISIC_1281742,IP_2263888,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1281742.jpg
+ISIC_7368597,IP_1602525,female,25.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7368597.jpg
+ISIC_1535915,IP_2008749,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1535915.jpg
+ISIC_3266797,IP_7368120,female,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3266797.jpg
+ISIC_5797653,IP_5085022,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5797653.jpg
+ISIC_9851899,IP_5243587,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9851899.jpg
+ISIC_8248092,IP_6121241,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8248092.jpg
+ISIC_9140498,IP_2871134,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9140498.jpg
+ISIC_8361302,IP_6940325,female,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8361302.jpg
+ISIC_4555130,IP_1005683,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4555130.jpg
+ISIC_3749953,IP_7842431,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3749953.jpg
+ISIC_5471848,IP_3729287,male,60.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5471848.jpg
+ISIC_7195242,IP_8104255,male,35.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7195242.jpg
+ISIC_9966978,IP_8793264,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9966978.jpg
+ISIC_5541513,IP_1582457,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5541513.jpg
+ISIC_2170086,IP_7357415,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2170086.jpg
+ISIC_0883408,IP_0660290,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0883408.jpg
+ISIC_7061003,IP_8003017,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7061003.jpg
+ISIC_9846559,IP_5304634,female,30.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9846559.jpg
+ISIC_6539116,IP_8738175,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6539116.jpg
+ISIC_8312576,IP_9001826,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8312576.jpg
+ISIC_4759062,IP_9756233,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4759062.jpg
+ISIC_5443689,IP_8031662,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5443689.jpg
+ISIC_7912334,IP_9856163,female,60.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7912334.jpg
+ISIC_3545436,IP_0392287,male,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3545436.jpg
+ISIC_1481586,IP_7279968,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1481586.jpg
+ISIC_4550082,IP_6936664,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4550082.jpg
+ISIC_9374628,IP_9290101,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9374628.jpg
+ISIC_1164824,IP_4842370,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1164824.jpg
+ISIC_2539034,IP_7452391,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2539034.jpg
+ISIC_8112306,IP_7594604,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8112306.jpg
+ISIC_5812008,IP_8247808,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5812008.jpg
+ISIC_0932862,IP_2865063,male,60.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0932862.jpg
+ISIC_5310630,IP_7388762,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5310630.jpg
+ISIC_5655181,IP_4639224,male,45.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5655181.jpg
+ISIC_4614604,IP_8173459,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4614604.jpg
+ISIC_6244808,IP_2041319,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6244808.jpg
+ISIC_8880387,IP_3517456,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8880387.jpg
+ISIC_8562717,IP_7490585,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8562717.jpg
+ISIC_3010219,IP_0894335,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3010219.jpg
+ISIC_5650816,IP_6489379,male,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5650816.jpg
+ISIC_9021685,IP_3025705,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9021685.jpg
+ISIC_4671056,IP_7261254,female,20.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4671056.jpg
+ISIC_4174592,IP_9218934,male,70.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4174592.jpg
+ISIC_2575894,IP_1472634,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2575894.jpg
+ISIC_9238366,IP_0306499,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9238366.jpg
+ISIC_4912684,IP_0963996,female,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4912684.jpg
+ISIC_5618133,IP_1386843,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5618133.jpg
+ISIC_9551406,IP_7147862,male,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9551406.jpg
+ISIC_1664845,IP_7584179,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1664845.jpg
+ISIC_5739829,IP_0423090,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5739829.jpg
+ISIC_3481318,IP_6850143,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3481318.jpg
+ISIC_5899528,IP_9428720,male,30.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5899528.jpg
+ISIC_4893602,IP_0038545,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4893602.jpg
+ISIC_3575926,IP_8841455,male,70.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3575926.jpg
+ISIC_8082147,IP_0492456,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8082147.jpg
+ISIC_0224295,IP_9826072,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0224295.jpg
+ISIC_0960741,IP_4356379,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0960741.jpg
+ISIC_4745004,IP_7518373,female,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4745004.jpg
+ISIC_0873568,IP_2422802,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0873568.jpg
+ISIC_7709611,IP_2055758,female,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7709611.jpg
+ISIC_9477825,IP_7743588,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9477825.jpg
+ISIC_5137061,IP_1195596,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5137061.jpg
+ISIC_3310739,IP_3433747,male,75.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3310739.jpg
+ISIC_5802598,IP_8839187,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5802598.jpg
+ISIC_1255210,IP_2822147,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1255210.jpg
+ISIC_1511661,IP_9564988,female,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1511661.jpg
+ISIC_3586824,IP_3048629,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3586824.jpg
+ISIC_9880108,IP_3489420,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9880108.jpg
+ISIC_4156791,IP_4194721,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4156791.jpg
+ISIC_9150236,IP_6129542,female,25.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9150236.jpg
+ISIC_1147733,IP_5865682,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1147733.jpg
+ISIC_9538671,IP_7610036,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9538671.jpg
+ISIC_9909655,IP_2214113,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9909655.jpg
+ISIC_9059293,IP_8142299,male,55.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9059293.jpg
+ISIC_1915549,IP_6049920,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1915549.jpg
+ISIC_0492473,IP_8940163,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0492473.jpg
+ISIC_9403126,IP_2263888,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9403126.jpg
+ISIC_5932182,IP_4682288,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5932182.jpg
+ISIC_9882019,IP_0933819,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9882019.jpg
+ISIC_9236241,IP_0400826,male,45.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9236241.jpg
+ISIC_8460093,IP_3878510,female,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8460093.jpg
+ISIC_0580068,IP_2457893,male,75.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0580068.jpg
+ISIC_3849204,IP_4879325,female,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3849204.jpg
+ISIC_1039396,IP_2008749,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1039396.jpg
+ISIC_4097143,IP_7685109,female,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4097143.jpg
+ISIC_2160379,IP_3882858,male,55.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2160379.jpg
+ISIC_6336781,IP_7341133,female,55.0,,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6336781.jpg
+ISIC_5419016,IP_6945048,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5419016.jpg
+ISIC_3735572,IP_9486050,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3735572.jpg
+ISIC_3603150,IP_4248414,male,30.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3603150.jpg
+ISIC_7356472,IP_4419570,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7356472.jpg
+ISIC_1084452,IP_4294140,male,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1084452.jpg
+ISIC_9688534,IP_1139701,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9688534.jpg
+ISIC_8985109,IP_9579751,male,45.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8985109.jpg
+ISIC_1364848,IP_7770083,female,45.0,,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1364848.jpg
+ISIC_4419837,IP_2139548,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4419837.jpg
+ISIC_4762916,IP_1172238,female,55.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4762916.jpg
+ISIC_0247330,IP_3232631,female,65.0,lower extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0247330.jpg
+ISIC_0246184,IP_4369500,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0246184.jpg
+ISIC_4021456,IP_3531652,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4021456.jpg
+ISIC_0420777,IP_8173459,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0420777.jpg
+ISIC_8283033,IP_2511209,female,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8283033.jpg
+ISIC_5747681,IP_4926060,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5747681.jpg
+ISIC_8324533,IP_2669371,female,45.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8324533.jpg
+ISIC_7768567,IP_8986063,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7768567.jpg
+ISIC_2602794,IP_4645992,male,35.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2602794.jpg
+ISIC_1057521,IP_8766487,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1057521.jpg
+ISIC_8390111,IP_6885799,female,45.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8390111.jpg
+ISIC_7492684,IP_2710085,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7492684.jpg
+ISIC_1479183,IP_9898991,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1479183.jpg
+ISIC_8979275,IP_7598598,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8979275.jpg
+ISIC_9929556,IP_7770083,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9929556.jpg
+ISIC_2317156,IP_3689742,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2317156.jpg
+ISIC_9295519,IP_5881171,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9295519.jpg
+ISIC_6208919,IP_7842431,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6208919.jpg
+ISIC_7187154,IP_9927968,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7187154.jpg
+ISIC_9935970,IP_7079700,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9935970.jpg
+ISIC_8703375,IP_5450817,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8703375.jpg
+ISIC_5390565,IP_4302652,female,20.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5390565.jpg
+ISIC_3721600,IP_6630831,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3721600.jpg
+ISIC_4960784,IP_9663529,female,75.0,upper extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4960784.jpg
+ISIC_9908982,IP_6387073,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9908982.jpg
+ISIC_3893164,IP_8091200,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3893164.jpg
+ISIC_1633816,IP_1380269,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1633816.jpg
+ISIC_9878449,IP_0483228,female,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9878449.jpg
+ISIC_6882841,IP_6780155,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6882841.jpg
+ISIC_4747355,IP_9137239,male,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4747355.jpg
+ISIC_3971616,IP_2932439,female,50.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3971616.jpg
+ISIC_5505564,IP_8663649,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5505564.jpg
+ISIC_4590810,IP_2172761,female,35.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4590810.jpg
+ISIC_1456688,IP_3008149,male,65.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1456688.jpg
+ISIC_1453053,IP_3347700,female,60.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1453053.jpg
+ISIC_1342851,IP_6890425,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1342851.jpg
+ISIC_5226371,IP_2871134,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5226371.jpg
+ISIC_9835931,IP_9316325,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9835931.jpg
+ISIC_4315613,IP_0719925,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4315613.jpg
+ISIC_9065762,IP_6017204,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9065762.jpg
+ISIC_4780541,IP_3561719,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4780541.jpg
+ISIC_9944931,IP_9942136,male,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9944931.jpg
+ISIC_0350875,IP_4261345,male,75.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0350875.jpg
+ISIC_2370136,IP_0393526,male,40.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2370136.jpg
+ISIC_5059640,IP_7785592,male,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5059640.jpg
+ISIC_2589452,IP_4080851,male,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2589452.jpg
+ISIC_2662644,IP_4199752,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2662644.jpg
+ISIC_9764947,IP_9111321,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9764947.jpg
+ISIC_3368468,IP_0894335,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3368468.jpg
+ISIC_4858439,IP_6272363,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4858439.jpg
+ISIC_5760047,IP_8951606,male,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5760047.jpg
+ISIC_6781665,IP_5229014,male,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6781665.jpg
+ISIC_2817153,IP_7817315,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2817153.jpg
+ISIC_6520237,IP_9826439,male,55.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6520237.jpg
+ISIC_2070085,IP_7132551,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2070085.jpg
+ISIC_9013023,IP_6538458,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9013023.jpg
+ISIC_6405298,IP_4669427,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6405298.jpg
+ISIC_6436107,IP_6242332,male,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6436107.jpg
+ISIC_7836288,IP_5076578,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7836288.jpg
+ISIC_4804912,IP_8547782,male,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4804912.jpg
+ISIC_0711803,IP_2506892,female,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0711803.jpg
+ISIC_4196596,IP_8491618,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4196596.jpg
+ISIC_0682255,IP_5752342,male,75.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0682255.jpg
+ISIC_3145600,IP_6526534,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3145600.jpg
+ISIC_2442872,IP_7890415,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2442872.jpg
+ISIC_7446443,IP_3423256,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7446443.jpg
+ISIC_2054180,IP_7644786,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2054180.jpg
+ISIC_1894639,IP_8936266,female,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1894639.jpg
+ISIC_4119189,IP_2760044,male,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4119189.jpg
+ISIC_7273849,IP_6977878,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7273849.jpg
+ISIC_8659694,IP_4983809,male,70.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8659694.jpg
+ISIC_0879635,IP_6709202,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0879635.jpg
+ISIC_6555093,IP_0139601,female,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6555093.jpg
+ISIC_2504659,IP_5577320,female,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2504659.jpg
+ISIC_8745294,IP_4525077,female,65.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8745294.jpg
+ISIC_6570097,IP_3927998,female,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6570097.jpg
+ISIC_0934367,IP_2442926,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0934367.jpg
+ISIC_3225754,IP_5004338,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3225754.jpg
+ISIC_9105375,IP_8330575,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9105375.jpg
+ISIC_2735846,IP_4669427,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2735846.jpg
+ISIC_2023070,IP_4389876,female,55.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2023070.jpg
+ISIC_6006464,IP_9147454,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6006464.jpg
+ISIC_5941908,IP_8702124,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5941908.jpg
+ISIC_9690263,IP_6342369,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9690263.jpg
+ISIC_5771106,IP_4749521,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5771106.jpg
+ISIC_2085855,IP_2822147,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2085855.jpg
+ISIC_5974283,IP_4162876,male,60.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5974283.jpg
+ISIC_2614904,IP_6098503,female,30.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2614904.jpg
+ISIC_8283435,IP_6648913,female,85.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8283435.jpg
+ISIC_9069537,IP_9299615,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9069537.jpg
+ISIC_7826557,IP_9115076,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7826557.jpg
+ISIC_7810552,IP_0776416,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7810552.jpg
+ISIC_2529848,IP_0175414,male,60.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2529848.jpg
+ISIC_1228927,IP_7997841,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1228927.jpg
+ISIC_7189167,IP_1600028,male,25.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7189167.jpg
+ISIC_6486966,IP_5922049,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6486966.jpg
+ISIC_0975117,IP_1522453,female,25.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0975117.jpg
+ISIC_2171314,IP_3564160,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2171314.jpg
+ISIC_1081510,IP_8414061,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1081510.jpg
+ISIC_1870377,IP_1197949,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1870377.jpg
+ISIC_2671038,IP_4557152,female,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2671038.jpg
+ISIC_8993666,IP_4050705,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8993666.jpg
+ISIC_6423914,IP_5178963,female,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6423914.jpg
+ISIC_0816917,IP_7406922,male,40.0,upper extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0816917.jpg
+ISIC_5075232,IP_9899071,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5075232.jpg
+ISIC_8636695,IP_5795395,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8636695.jpg
+ISIC_1302281,IP_0175539,female,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1302281.jpg
+ISIC_6312488,IP_4865295,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6312488.jpg
+ISIC_5558942,IP_2026598,male,20.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5558942.jpg
+ISIC_9851634,IP_3933152,female,25.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9851634.jpg
+ISIC_2053951,IP_4645992,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2053951.jpg
+ISIC_8223322,IP_0428413,female,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8223322.jpg
+ISIC_2164811,IP_6842204,female,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2164811.jpg
+ISIC_0678913,IP_0921705,male,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0678913.jpg
+ISIC_6794321,IP_9644384,female,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6794321.jpg
+ISIC_2751896,IP_2865063,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2751896.jpg
+ISIC_8033318,IP_2152204,female,50.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8033318.jpg
+ISIC_0966066,IP_3679859,female,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0966066.jpg
+ISIC_5588738,IP_0765629,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5588738.jpg
+ISIC_2684745,IP_1197949,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2684745.jpg
+ISIC_1476176,IP_8491618,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1476176.jpg
+ISIC_6489993,IP_9463965,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6489993.jpg
+ISIC_2404779,IP_8224373,female,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2404779.jpg
+ISIC_9259820,IP_8247808,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9259820.jpg
+ISIC_5601326,IP_8001428,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5601326.jpg
+ISIC_4120704,IP_8759634,female,50.0,palms/soles,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4120704.jpg
+ISIC_9501950,IP_8173459,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9501950.jpg
+ISIC_9948815,IP_9616517,female,40.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9948815.jpg
+ISIC_5501609,IP_5496892,male,65.0,palms/soles,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5501609.jpg
+ISIC_0322371,IP_2760044,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0322371.jpg
+ISIC_4316501,IP_5805281,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4316501.jpg
+ISIC_3745259,IP_8734172,male,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3745259.jpg
+ISIC_8855901,IP_5311557,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8855901.jpg
+ISIC_2468975,IP_8491618,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2468975.jpg
+ISIC_7738828,IP_5119720,male,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7738828.jpg
+ISIC_1782911,IP_5440659,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1782911.jpg
+ISIC_6304525,IP_1419269,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6304525.jpg
+ISIC_1542389,IP_8295219,female,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1542389.jpg
+ISIC_2021175,IP_0096763,female,75.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2021175.jpg
+ISIC_1024269,IP_3075186,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1024269.jpg
+ISIC_0333246,IP_7779275,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0333246.jpg
+ISIC_0920000,IP_7147862,male,45.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0920000.jpg
+ISIC_1893232,IP_3246668,male,80.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1893232.jpg
+ISIC_8181718,IP_6540095,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8181718.jpg
+ISIC_6751908,IP_0507923,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6751908.jpg
+ISIC_3141912,IP_3564160,female,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3141912.jpg
+ISIC_3564263,IP_2160700,male,50.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3564263.jpg
+ISIC_3556200,IP_8723313,female,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3556200.jpg
+ISIC_3833013,IP_0358262,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3833013.jpg
+ISIC_5028913,IP_8742468,male,65.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5028913.jpg
+ISIC_8316125,IP_6071452,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8316125.jpg
+ISIC_0174527,IP_6420568,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0174527.jpg
+ISIC_1964765,IP_0657134,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1964765.jpg
+ISIC_2685593,IP_6643545,male,75.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2685593.jpg
+ISIC_4418220,IP_3246668,male,80.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4418220.jpg
+ISIC_1571498,IP_0656529,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1571498.jpg
+ISIC_4814024,IP_6318212,female,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4814024.jpg
+ISIC_4022788,IP_7151331,female,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4022788.jpg
+ISIC_4385893,IP_6830809,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4385893.jpg
+ISIC_3689984,IP_0475504,female,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3689984.jpg
+ISIC_5518805,IP_7412558,male,55.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5518805.jpg
+ISIC_7289716,IP_5533537,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7289716.jpg
+ISIC_9808842,IP_6901441,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9808842.jpg
+ISIC_1330008,IP_9373614,female,45.0,lower extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1330008.jpg
+ISIC_5931552,IP_7412558,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5931552.jpg
+ISIC_1888185,IP_4387709,male,30.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1888185.jpg
+ISIC_1536014,IP_1395856,male,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1536014.jpg
+ISIC_9731788,IP_0687884,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9731788.jpg
+ISIC_8527330,IP_6949859,male,50.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8527330.jpg
+ISIC_7902978,IP_7684360,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7902978.jpg
+ISIC_2945640,IP_5808038,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2945640.jpg
+ISIC_4498746,IP_9595383,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4498746.jpg
+ISIC_2253110,IP_6875077,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2253110.jpg
+ISIC_0792879,IP_0637703,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0792879.jpg
+ISIC_0918078,IP_6776978,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0918078.jpg
+ISIC_4458627,IP_0500903,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4458627.jpg
+ISIC_2722070,IP_7718399,female,40.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2722070.jpg
+ISIC_9459785,IP_4281194,female,80.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9459785.jpg
+ISIC_9355671,IP_4050705,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9355671.jpg
+ISIC_3251951,IP_3575311,female,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3251951.jpg
+ISIC_4647934,IP_7373371,female,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4647934.jpg
+ISIC_9438607,IP_4959878,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9438607.jpg
+ISIC_2980578,IP_4638162,male,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2980578.jpg
+ISIC_6303154,IP_2160700,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6303154.jpg
+ISIC_7351007,IP_3255507,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7351007.jpg
+ISIC_6839610,IP_2769817,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6839610.jpg
+ISIC_7560723,IP_3562983,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7560723.jpg
+ISIC_8535943,IP_2669703,female,30.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8535943.jpg
+ISIC_1802797,IP_2913292,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1802797.jpg
+ISIC_0240628,IP_7121757,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0240628.jpg
+ISIC_5592669,IP_6977878,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5592669.jpg
+ISIC_8064837,IP_4199752,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8064837.jpg
+ISIC_4469805,IP_7610036,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4469805.jpg
+ISIC_2633073,IP_8627268,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2633073.jpg
+ISIC_0293416,IP_2506795,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0293416.jpg
+ISIC_4732460,IP_1652699,male,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4732460.jpg
+ISIC_5745941,IP_7770083,female,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5745941.jpg
+ISIC_7921335,IP_4988871,female,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7921335.jpg
+ISIC_6285376,IP_7490585,male,70.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6285376.jpg
+ISIC_3563518,IP_4050705,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3563518.jpg
+ISIC_4743215,IP_7123023,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4743215.jpg
+ISIC_2929755,IP_8627284,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2929755.jpg
+ISIC_7462628,IP_9992027,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7462628.jpg
+ISIC_1788314,IP_3765445,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1788314.jpg
+ISIC_1453604,IP_6116226,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1453604.jpg
+ISIC_7497699,IP_7948039,female,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7497699.jpg
+ISIC_6555339,IP_9355893,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6555339.jpg
+ISIC_3886001,IP_3336327,female,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3886001.jpg
+ISIC_2869310,IP_2136135,male,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2869310.jpg
+ISIC_3171104,IP_5234470,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3171104.jpg
+ISIC_8409421,IP_6061014,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8409421.jpg
+ISIC_3222205,IP_1672936,female,20.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3222205.jpg
+ISIC_1511536,IP_2835119,male,55.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1511536.jpg
+ISIC_0247242,IP_1447682,female,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0247242.jpg
+ISIC_1590877,IP_4479736,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1590877.jpg
+ISIC_2895308,IP_4576977,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2895308.jpg
+ISIC_2452910,IP_7104534,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2452910.jpg
+ISIC_5787312,IP_8742468,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5787312.jpg
+ISIC_0529518,IP_9623174,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0529518.jpg
+ISIC_7647201,IP_5561220,female,20.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7647201.jpg
+ISIC_6326012,IP_3402498,male,65.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6326012.jpg
+ISIC_6023882,IP_6017204,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6023882.jpg
+ISIC_0198392,IP_7199022,female,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0198392.jpg
+ISIC_2670619,IP_7240556,female,20.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2670619.jpg
+ISIC_1641366,IP_3587277,male,60.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1641366.jpg
+ISIC_3595825,IP_2654837,female,55.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3595825.jpg
+ISIC_3230630,IP_0687884,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3230630.jpg
+ISIC_0845897,IP_7842431,male,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0845897.jpg
+ISIC_1711408,IP_7452391,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1711408.jpg
+ISIC_7478025,IP_8590096,male,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7478025.jpg
+ISIC_4078966,IP_8702124,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4078966.jpg
+ISIC_0175364,IP_3523549,male,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0175364.jpg
+ISIC_0787585,IP_8136122,female,40.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0787585.jpg
+ISIC_4660964,IP_0646610,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4660964.jpg
+ISIC_9288923,IP_5202455,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9288923.jpg
+ISIC_1632696,IP_5872065,male,50.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1632696.jpg
+ISIC_9006841,IP_7685109,female,25.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9006841.jpg
+ISIC_6793603,IP_9232483,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6793603.jpg
+ISIC_5414884,IP_4938349,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5414884.jpg
+ISIC_2275181,IP_6078411,male,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2275181.jpg
+ISIC_6675773,IP_4572846,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6675773.jpg
+ISIC_9649253,IP_2005898,female,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9649253.jpg
+ISIC_0509901,IP_9879000,male,35.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0509901.jpg
+ISIC_8729274,IP_5365464,female,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8729274.jpg
+ISIC_8383600,IP_4938382,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8383600.jpg
+ISIC_3507444,IP_9679829,male,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3507444.jpg
+ISIC_4683052,IP_4409916,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4683052.jpg
+ISIC_8165906,IP_0593168,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8165906.jpg
+ISIC_1859531,IP_6889672,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1859531.jpg
+ISIC_6955799,IP_2511209,female,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6955799.jpg
+ISIC_3238529,IP_1891465,male,85.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3238529.jpg
+ISIC_8031554,IP_3490992,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8031554.jpg
+ISIC_1747417,IP_8988837,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1747417.jpg
+ISIC_8873943,IP_6631780,female,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8873943.jpg
+ISIC_2414689,IP_2479386,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2414689.jpg
+ISIC_7814868,IP_6814066,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7814868.jpg
+ISIC_0762262,IP_3735763,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0762262.jpg
+ISIC_9747249,IP_0175414,male,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9747249.jpg
+ISIC_8025243,IP_6245507,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8025243.jpg
+ISIC_1605937,IP_7198796,female,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1605937.jpg
+ISIC_1672661,IP_9190806,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1672661.jpg
+ISIC_8014513,IP_4687295,female,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8014513.jpg
+ISIC_0663824,IP_6526534,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0663824.jpg
+ISIC_0926306,IP_0942159,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0926306.jpg
+ISIC_8049827,IP_8091497,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8049827.jpg
+ISIC_4637479,IP_1109756,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4637479.jpg
+ISIC_2860618,IP_0951571,female,55.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2860618.jpg
+ISIC_9196819,IP_4356379,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9196819.jpg
+ISIC_7581388,IP_8326844,female,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7581388.jpg
+ISIC_9886225,IP_5795395,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9886225.jpg
+ISIC_6081906,IP_2040538,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6081906.jpg
+ISIC_2565154,IP_3444084,male,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2565154.jpg
+ISIC_1354862,IP_9961030,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1354862.jpg
+ISIC_1338055,IP_9392784,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1338055.jpg
+ISIC_6623061,IP_4366959,female,35.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6623061.jpg
+ISIC_2539218,IP_8326844,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2539218.jpg
+ISIC_8268025,IP_8678278,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8268025.jpg
+ISIC_1798050,IP_3317740,male,35.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1798050.jpg
+ISIC_2671817,IP_3008149,male,65.0,head/neck,seborrheic keratosis,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2671817.jpg
+ISIC_0708552,IP_0656529,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0708552.jpg
+ISIC_5406576,IP_9853347,male,55.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5406576.jpg
+ISIC_2432948,IP_6512345,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2432948.jpg
+ISIC_4646815,IP_8702124,female,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4646815.jpg
+ISIC_6409060,IP_2785084,male,60.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6409060.jpg
+ISIC_6813799,IP_4898383,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6813799.jpg
+ISIC_7309684,IP_5152468,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7309684.jpg
+ISIC_7571140,IP_2959285,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7571140.jpg
+ISIC_1856556,IP_8717497,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1856556.jpg
+ISIC_1204284,IP_1769689,male,45.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1204284.jpg
+ISIC_4210740,IP_8744388,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4210740.jpg
+ISIC_0506309,IP_8666570,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0506309.jpg
+ISIC_0094755,IP_0135517,female,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0094755.jpg
+ISIC_4770938,IP_3690477,male,60.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4770938.jpg
+ISIC_2980633,IP_7518373,female,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2980633.jpg
+ISIC_6097000,IP_9992027,female,50.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6097000.jpg
+ISIC_8735133,IP_8041141,female,15.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8735133.jpg
+ISIC_1591931,IP_3531667,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1591931.jpg
+ISIC_9207137,IP_3222187,female,40.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9207137.jpg
+ISIC_3307352,IP_4938382,female,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3307352.jpg
+ISIC_0647224,IP_5064161,male,30.0,lower extremity,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0647224.jpg
+ISIC_3237290,IP_6419409,female,50.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3237290.jpg
+ISIC_1462996,IP_2263888,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1462996.jpg
+ISIC_6049499,IP_2610032,male,35.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6049499.jpg
+ISIC_0682086,IP_1152723,male,25.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0682086.jpg
+ISIC_1089746,IP_3561719,male,70.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1089746.jpg
+ISIC_1740912,IP_2177417,male,45.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1740912.jpg
+ISIC_0174405,IP_5945442,female,35.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0174405.jpg
+ISIC_6679445,IP_2932439,female,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6679445.jpg
+ISIC_8168598,IP_1709095,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8168598.jpg
+ISIC_5320770,IP_0776416,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5320770.jpg
+ISIC_8397088,IP_5972253,male,75.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8397088.jpg
+ISIC_8986880,IP_9624164,male,70.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8986880.jpg
+ISIC_7326451,IP_9826072,male,70.0,upper extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7326451.jpg
+ISIC_0941700,IP_7685109,female,25.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_0941700.jpg
+ISIC_7188164,IP_0776416,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7188164.jpg
+ISIC_9047350,IP_7279218,female,30.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9047350.jpg
+ISIC_4474970,IP_0904259,female,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_4474970.jpg
+ISIC_7489564,IP_9037179,male,70.0,torso,melanoma,malignant,1,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7489564.jpg
+ISIC_6147463,IP_6342052,male,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6147463.jpg
+ISIC_9954010,IP_6940325,female,30.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9954010.jpg
+ISIC_3985810,IP_1091619,male,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3985810.jpg
+ISIC_2211403,IP_7590110,female,45.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2211403.jpg
+ISIC_3435747,IP_0454573,male,55.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3435747.jpg
+ISIC_6542088,IP_2821147,female,60.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6542088.jpg
+ISIC_5485512,IP_8130803,male,15.0,head/neck,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5485512.jpg
+ISIC_7727830,IP_6332843,male,30.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7727830.jpg
+ISIC_3306135,IP_7644786,female,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3306135.jpg
+ISIC_6052995,IP_6071452,male,70.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6052995.jpg
+ISIC_8613613,IP_1671181,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8613613.jpg
+ISIC_6216261,IP_5474292,male,40.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6216261.jpg
+ISIC_8095981,IP_0019713,male,30.0,lower extremity,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_8095981.jpg
+ISIC_7489072,IP_1672532,male,55.0,upper extremity,lentigo NOS,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7489072.jpg
+ISIC_2860749,IP_0660290,male,60.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2860749.jpg
+ISIC_1256143,IP_6397153,female,65.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_1256143.jpg
+ISIC_5973717,IP_7950112,female,35.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5973717.jpg
+ISIC_3355691,IP_5205991,,,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_3355691.jpg
+ISIC_5399014,IP_5528290,male,50.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5399014.jpg
+ISIC_7140910,IP_5986216,male,50.0,oral/genital,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7140910.jpg
+ISIC_7466341,IP_9042214,female,30.0,lower extremity,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7466341.jpg
+ISIC_9739954,IP_7404937,male,60.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_9739954.jpg
+ISIC_6051605,IP_6526534,male,50.0,torso,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_6051605.jpg
+ISIC_5924898,IP_7005083,female,60.0,palms/soles,unknown,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_5924898.jpg
+ISIC_7388369,IP_9164625,female,50.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_7388369.jpg
+ISIC_2879512,IP_7979366,male,45.0,torso,nevus,benign,0,/dev/shm/myramdisk/ISIC2020_resized_224/train/ISIC_2879512.jpg
