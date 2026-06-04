@@ -3,7 +3,7 @@
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff) [![MICCAI 2026](https://img.shields.io/badge/MICCAI-2026-00AEEF?labelColor=1B2A6B)](https://conferences.miccai.org/2026/) [![arXiv](https://img.shields.io/badge/arXiv-2606.01753-b31b1b.svg)](https://arxiv.org/abs/2606.01753) [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 <!-- [![🤗 Model](https://img.shields.io/badge/🤗-Model-yellow)](HUGGINGFACE_URL) -->
 
-*Early-accept at MICCAI 2026 (top 9% of 4,601 submissions).*
+> *Early-accept at MICCAI 2026 (top 9% of 4,601 submissions).*
 
 A quality-guided approach to semi-supervised medical image segmentation. A dedicated segmentation quality predictor <i>g<sub>&phi;</sub></i> is trained on variable-quality masks to estimate segmentation quality from image-mask pairs without requiring ground truth. The frozen <i>g<sub>&phi;</sub></i> then guides semi-supervised training of the segmentation network <i>f<sub>&theta;</sub></i> on unlabeled data through two complementary mechanisms:
 - **QAR**: a differentiable quality-aware regularization that encourages <i>f<sub>&theta;</sub></i> to produce masks that <i>g<sub>&phi;</sub></i> scores as high quality, or
@@ -18,8 +18,8 @@ Both mechanisms are drop-in enhancements to existing semi-supervised learning fr
 # Repository Structure
 
 Training is organized around two phases:
-- **Phase 1** — Train <i>g<sub>&phi;</sub></i>: generate Variable Quality Masks (`data/`) and train the quality predictor (`training/train_mq.py`). Driven by `train_mq.sh`.
-- **Phase 2** — Train <i>f<sub>&theta;</sub></i>: use the frozen <i>g<sub>&phi;</sub></i> to guide semi-supervised training of the segmentation network (`training/train_semisup.py`, `training/methods/`). Driven by `train_SSL_methods.sh`.
+- [**Phase 1**] Train <i>g<sub>&phi;</sub></i> : generate Variable Quality Masks and train the quality predictor. Done using `train_mq.sh`.
+- [**Phase 2**] Train <i>f<sub>&theta;</sub></i> : use the frozen <i>g<sub>&phi;</sub></i> to guide semi-supervised training of the segmentation network. Done using `train_SSL_methods.sh`.
 
 ```
 .
@@ -157,53 +157,3 @@ See `prepare_datasets/` for PH2 example. The `prepare_unsupervised_images/` dire
 <details><summary>Click to expand</summary>
 Pre-trained weights for segmentation models <i>f<sub>&theta;</sub></i> trained with QAR and PL-QW (see `training/methods/ours.py`) will soon be uploaded to the HuggingFace Hub. I will update the link once the weights are uploaded.
 </details>
-
-
-
-
-
-<!-- # Repository Structure (tables per module)
-
-Training is organized around two phases:
-- **Phase 1** — Train g_φ: generate Variable Quality Masks (`data/`) and train the quality predictor (`training/train_mq.py`). Driven by `train_mq.sh`.
-- **Phase 2** — Train f_θ: use the frozen g_φ to guide semi-supervised training of the segmentation network (`training/train_semisup.py`, `training/methods/`). Driven by `train_SSL_methods.sh`.
-
-**Shell scripts**
-
-| File | Description |
-|------|-------------|
-| `train_mq.sh` | Phase 1: trains weak segmentation models and the quality predictor g_φ |
-| `test_mq.sh` | Evaluates the trained quality predictor g_φ |
-| `train_SSL_methods.sh` | Phase 2: semi-supervised training of the segmentation network f_θ |
-
-**`data/`** — Variable Quality Mask generation (Phase 1)
-
-| File | Description |
-|------|-------------|
-| `corruption_ops.py` | Synthetic mask corruption functions (morphological, elastic, boundary perturbations) |
-| `vqm_generator.py` | Variable Quality Mask (VQM) generator combining synthetic and weak-model corruptions |
-| `weak_model_corruption.py` | Trains partially-trained segmentation models and collects their predictions as realistic corruptions |
-| `mq_dataset.py` | Dataset class for g_φ training with on-the-fly VQM generation and Dice score labels |
-| `seg_datasets.py` | Labeled (D_L) and unlabeled (D_U) segmentation datasets for semi-supervised training of f_θ |
-
-**`models/`**
-
-| File | Description |
-|------|-------------|
-| `quality_predictor.py` | Quality predictor g_φ: CNN encoder + regression head mapping (image, mask) → predicted Dice score |
-| `ema.py` | Exponential moving average wrapper for f_θ, used by mean teacher methods |
-| `swin_unet.py` | Swin-UNet architecture (one of the f_θ backbones) |
-| `swin_unet_utils.py` | Utilities for loading pretrained Swin Transformer weights into Swin-UNet |
-
-**`training/`**
-
-| File | Description |
-|------|-------------|
-| `train_mq.py` | Phase 1: training script for g_φ |
-| `test_mq.py` | Evaluation script for g_φ (MAE and Pearson correlation) |
-| `train_semisup.py` | Phase 2: semi-supervised training loop for f_θ across all methods, with mixed precision via HuggingFace Accelerate |
-| `losses.py` | Loss function definitions (Dice, cross-entropy, combo, SmoothL1) |
-| `metrics.py` | Evaluation metrics: Dice, Jaccard, pixel accuracy, F1 |
-| `schedulers.py` | Ramp-up scheduler for the unsupervised loss weight during f_θ training |
-| `eval_utils.py` | Validation and test evaluation utilities |
-| `methods/ours.py` | QAR and PL-QW: quality-guided training of f_θ using frozen g_φ | -->
